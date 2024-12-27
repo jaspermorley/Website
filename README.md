@@ -1,5 +1,5 @@
-# **My Person Website**
-# Welcome to the repository for my personal website. This will showcase my portfolio, skills and experiences
+# __My Person Website__
+# Welcome to the repository for my personal website! This will showcase my portfolio, skills and experiences
 
-# **About**
+# __About_
 # This website will provide the user information with the man that is: Jasper Morley
